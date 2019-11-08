@@ -1,0 +1,26 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+/* @import '~bootstrap/scss/bootstrap'; */
+/* @import '~adminbsb-materialdesign/plugins/bootstrap/css/bootstrap.css';
+@import '~adminbsb-materialdesign/plugins/node-waves/waves.css';
+@import '~adminbsb-materialdesign/plugins/animate-css/animate.css';
+@import '~adminbsb-materialdesign/css/style.css';
+@import '~adminbsb-materialdesign/css/themes/all-themes.css';
+ */
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.swal2-popup {
+  font-size: 1.6rem !important;
+}
+.swal2-popup .swal2-select {
+    display:none;
+}
